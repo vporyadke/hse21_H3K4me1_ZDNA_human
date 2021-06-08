@@ -1,10 +1,10 @@
 ## Длины и положение пиков
 
-## ![ENCFF540NGG.hg19.hist](images\ENCFF540NGG.hg19.hist.png)
+## ![ENCFF540NGG.hg19.hist](images/ENCFF540NGG.hg19.hist.png)
 
 ![chip_seeker.ENCFF540NGG.hg19.filtered.plotAnnoPie](images/chip_seeker.ENCFF540NGG.hg19.filtered.plotAnnoPie.png)
 
-![ENCFF759NWD.hg19.hist](images\ENCFF759NWD.hg19.hist.png)
+![ENCFF759NWD.hg19.hist](images/ENCFF759NWD.hg19.hist.png)
 
 ![chip_seeker.H3K4me1_K562.intersect.plotAnnoPie](images/chip_seeker.H3K4me1_K562.intersect.plotAnnoPie.png)
 
